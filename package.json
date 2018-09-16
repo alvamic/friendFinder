@@ -1,0 +1,9 @@
+{
+    "name": "friendFinder",
+    "version": "1.0.0",
+    "description": "read me",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    }
+}
